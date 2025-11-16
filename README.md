@@ -3,13 +3,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janiththathsara&label=Profile%20views&color=0e75b6&style=flat" alt="janiththathsara" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+<div align="center">
 
-- 💬 Ask me about **react express mongoDB node.js**
+  <h3>🌱 I’m currently learning <strong>MERN</strong></h3>
 
-- 📫 How to reach me **thathsaralk@gmail.com**
+  <p>💬 Ask me about <strong>React, Express, MongoDB, Node.js</strong></p>
 
-- ⚡ Fun fact **call me as Teddy**
+  <p>📫 How to reach me: <strong>thathsaralk@gmail.com</strong></p>
+
+  <p>⚡ Fun fact: <strong>Call me Teddy</strong></p>
+
+</div>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
